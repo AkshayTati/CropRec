@@ -1,0 +1,11 @@
+venv
+.ipynb_checkpoints
+ai.py
+crop_rec.py
+weather.csv
+weatherAUS.csv
+Untitled.ipynb
+rainfall_st.py
+model_xgb.pkl
+CropAnalysis.ipynb
+Crop_recommendation.csv
